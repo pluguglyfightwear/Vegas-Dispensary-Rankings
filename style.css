@@ -1,1 +1,7 @@
 
+.disp-image {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
